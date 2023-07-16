@@ -7,6 +7,5 @@ public class Main {
         mercedes.accelerate(20);
         mercedes.accelerate(-60);
 
-        Car tata = new Car("tata",4, 4,6,true,"Suv", 5);
-    }
+git    }
 }
